@@ -1,5 +1,5 @@
 
-# 🛒 ManishStore – Modern E-Commerce
+# 🛒 Shopee – Modern E-Commerce
 
 **A premium, responsive shopping experience built with React.**
 
