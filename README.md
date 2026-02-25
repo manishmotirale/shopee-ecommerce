@@ -1,16 +1,61 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🛒 ManishStore – Modern E-Commerce
 
-Currently, two official plugins are available:
+**A premium, responsive shopping experience built with React.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Quick Features
+* ✨ **Modern UI** – Clean grid layout with smooth hover effects.
+* 🛍️ **Live Catalog** – Real-time data fetching from FakeStoreAPI.
+* 🛒 **Smart Cart** – Add/Remove items with persistence (LocalStorage).
+* 🇮🇳 **INR Pricing** – Prices formatted in ₹ for the Indian market.
+* ⚡ **Vite Optimized** – Lightning-fast performance and loading.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+* **Frontend:** React.js (Vite)
+* **Routing:** React Router Dom
+* **State:** Context API
+* **Styling:** Modern CSS3 (Mobile First)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📂 Project Setup
+
+1. **Clone the project**
+```bash
+git clone https://github.com/YOUR_USERNAME/manishstore.git
+```
+
+2. **Install dependencies**
+```bash
+npm install
+
+```
+
+
+3. **Start the engine**
+```bash
+npm run dev
+
+```
+
+---
+
+## 🏗️ Folder Structure
+
+* `src/components` - Reusable UI (Navbar, Cards)
+* `src/pages` - Main views (Home, Cart, Checkout)
+* `src/contexts` - Global state management
+* `src/styles` - Modern responsive CSS
+
+---
+
+## 👤 Author
+
+**Manish Motirale** 
+*Web Developer & Engineering Student*
+
+<p align="center">Built with ❤️ and React</p>
